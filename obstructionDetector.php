@@ -56,7 +56,7 @@ class ObstructionDetector {
  if($obstructionResult){
     echo "There is na obstruction, and it's impenetrable";
  } else {
-    echo "No obstruction or";
+    echo "No obstruction";
  }
 
 ?>
